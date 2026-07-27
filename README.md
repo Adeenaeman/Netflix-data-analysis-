@@ -4,7 +4,6 @@ A professional **Exploratory Data Analysis (EDA)** project analyzing the Netflix
 
 This project demonstrates the complete data analysis workflow—from data cleaning and preprocessing to exploratory analysis, statistical summaries, and visualization.
 
----
 
 ## 📌 Project Overview
 
@@ -19,7 +18,6 @@ This project explores more than **8,800 Netflix titles** to answer key business 
 - 🎯 Most popular genres
 - 📈 Statistical summaries using NumPy
 
----
 
 ## 📂 Dataset
 
@@ -42,7 +40,6 @@ This project explores more than **8,800 Netflix titles** to answer key business 
 | Genre |
 | Description |
 
----
 
 ## 🛠 Technologies Used
 
@@ -52,7 +49,6 @@ This project explores more than **8,800 Netflix titles** to answer key business 
 - Matplotlib
 - Jupyter Notebook
 
----
 
 ## 📚 Skills Demonstrated
 
@@ -100,7 +96,6 @@ This project explores more than **8,800 Netflix titles** to answer key business 
 - Figure Customization
 - Figure Saving
 
----
 
 ## 📁 Project Structure
 
@@ -121,7 +116,6 @@ Netflix-data-analysis/
     └── distributions.png
 ```
 
----
 
 ## 📊 Data Visualizations
 
@@ -141,7 +135,6 @@ Netflix-data-analysis/
 
 <img src="graphs/content.png" width="500">
 
----
 
 ## 🔍 Key Insights
 
@@ -153,7 +146,6 @@ Netflix-data-analysis/
 - 🎥 Rajiv Chilaka directed the most titles in the dataset.
 - 📈 Netflix experienced rapid content growth between **2016–2020**.
 
----
 
 ## ▶️ How to Run
 
@@ -177,8 +169,6 @@ Netflix data analysis.ipynb
 
 Run all cells to reproduce the complete analysis.
 
----
-
 ## 📌 Future Improvements
 
 - Interactive dashboards using Plotly
@@ -186,7 +176,6 @@ Run all cells to reproduce the complete analysis.
 - SQL-based analysis
 - Predictive analytics using Machine Learning
 
----
 
 ## 👩‍💻 Author
 
@@ -198,9 +187,5 @@ https://github.com/Adeenaeman
 
 **LinkedIn**  
 https://www.linkedin.com/in/adeena-eman/
-
----
-
-## ⭐ Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
