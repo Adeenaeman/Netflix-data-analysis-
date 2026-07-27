@@ -67,11 +67,11 @@ Data Visualization
 <img src="graphs/Releaseyears.png" width="600">
 
 <p align="center">
-  <img src="graphs/movies&TV.png" width="650">
+  <img src="graphs/movies&TV.png" width="600">
 </p>
 
 <p align="center">
-  <img src="graphs/content.png" width="650">
+  <img src="graphs/content.png" width="600">
 </p>
 
 Learning Outcome
