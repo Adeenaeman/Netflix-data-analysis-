@@ -64,11 +64,15 @@ Netflix-Data-Analysis/
 
 Data Visualization
 
-![years](graphs/Releaseyears.png)
+<img src="graphs/Releaseyears.png" width="600">
 
-![Genres](graphs/movies&TV.png)
+<p align="center">
+  <img src="graphs/movies&TV.png" width="650">
+</p>
 
-![Ratings](graphs/content.png)
+<p align="center">
+  <img src="graphs/content.png" width="650">
+</p>
 
 Learning Outcome
 
