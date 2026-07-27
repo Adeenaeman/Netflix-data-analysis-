@@ -4,7 +4,7 @@ A complete **Exploratory Data Analysis (EDA)** project on the Netflix Movies & T
 
 This project demonstrates the complete data analysis workflow—from cleaning raw data to generating insights and creating publication-quality visualizations.
 
----
+
 
 # 📊 Project Overview
 
@@ -18,7 +18,7 @@ The project explores more than **8,800 Netflix titles** to answer questions such
 - What is the distribution of Movies vs TV Shows?
 - Which genres are the most popular?
 
----
+
 
 # 📁 Dataset
 
@@ -40,7 +40,7 @@ The dataset contains information about:
 - Genre
 - Description
 
----
+
 
 # 🛠 Libraries Used
 
@@ -49,7 +49,7 @@ The dataset contains information about:
 - NumPy
 - Matplotlib
 
----
+
 
 # 📚 Skills Demonstrated
 
@@ -96,7 +96,7 @@ The dataset contains information about:
 - Grid Styling
 - Figure Saving
 
----
+
 
 # 📂 Project Structure
 
@@ -115,9 +115,9 @@ Netflix-data-analysis/
     ├── actors.png
     ├── directors.png
     └── distributions.png
-```
 
----
+
+
 
 # 📈 Visualizations
 
@@ -125,19 +125,19 @@ Netflix-data-analysis/
 
 <img src="graphs/Releaseyears.png" width="700">
 
----
+
 
 ### Movies vs TV Shows
 
 <img src="graphs/movies&TV.png" width="500">
 
----
+
 
 ### Content Distribution
 
 <img src="graphs/content.png" width="500">
 
----
+
 
 # 🔍 Key Insights
 
@@ -149,7 +149,7 @@ Netflix-data-analysis/
 - Rajiv Chilaka directed the most Netflix titles in the dataset.
 - Netflix experienced rapid content growth between 2016–2020.
 
----
+
 
 # ▶️ How to Run
 
@@ -173,16 +173,16 @@ Netflix data analysis.ipynb
 
 Run all cells.
 
----
+
 
 # 👩‍💻 Author
 
 **Adeena Eman**
 
+GitHub: https://github.com/Adeenaeman
 
-GitHub:
-https://github.com/Adeenaeman
+LinkedIn: https://www.linkedin.com/in/adeena-eman/
 
----
+
 
 # ⭐ If you found this project useful, consider giving it a Star!
