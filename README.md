@@ -5,6 +5,7 @@ A professional **Exploratory Data Analysis (EDA)** project analyzing the Netflix
 This project demonstrates the complete data analysis workflow—from data cleaning and preprocessing to exploratory analysis, statistical summaries, and visualization.
 
 
+
 ### 📌 Project Overview
 
 This project explores more than **8,800 Netflix titles** to answer key business and analytical questions, including:
@@ -19,9 +20,12 @@ This project explores more than **8,800 Netflix titles** to answer key business 
 - 📈 Statistical summaries using NumPy
 
 
+
 ### 📂 Dataset
 
 *Source:* https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+
 
 ### Dataset Features
 
@@ -41,6 +45,7 @@ This project explores more than **8,800 Netflix titles** to answer key business 
 | Description |
 
 
+
 ### 🛠 Technologies Used
 
 - Python
@@ -48,6 +53,7 @@ This project explores more than **8,800 Netflix titles** to answer key business 
 - NumPy
 - Matplotlib
 - Jupyter Notebook
+
 
 
 ### 📚 Skills Demonstrated
@@ -97,6 +103,7 @@ This project explores more than **8,800 Netflix titles** to answer key business 
 - Figure Saving
 
 
+
 ### 📁 Project Structure
 
 ```text
@@ -115,6 +122,7 @@ Netflix-data-analysis/
     ├── directors.png
     └── distributions.png
 ```
+
 
 
 ### 📊 Data Visualizations
@@ -136,6 +144,7 @@ Netflix-data-analysis/
 <img src="graphs/content.png" width="500">
 
 
+
 ### 🔍 Key Insights
 
 - 📌 Movies significantly outnumber TV Shows.
@@ -145,6 +154,7 @@ Netflix-data-analysis/
 - 📅 2018 recorded the highest number of releases.
 - 🎥 Rajiv Chilaka directed the most titles in the dataset.
 - 📈 Netflix experienced rapid content growth between **2016–2020**.
+
 
 
 ### ▶️ How to Run
@@ -169,7 +179,9 @@ Netflix data analysis.ipynb
 
 Run all cells to reproduce the complete analysis.
 
-###📌 Future Improvements
+
+
+📌 Future Improvements
 
 - Interactive dashboards using Plotly
 - Power BI dashboard
