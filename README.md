@@ -1,11 +1,11 @@
-# 🎬 Netflix Data Analysis using Python
+### 🎬 Netflix Data Analysis using Python
 
 A professional **Exploratory Data Analysis (EDA)** project analyzing the Netflix Movies & TV Shows dataset using **Python, Pandas, NumPy, and Matplotlib**.
 
 This project demonstrates the complete data analysis workflow—from data cleaning and preprocessing to exploratory analysis, statistical summaries, and visualization.
 
 
-## 📌 Project Overview
+### 📌 Project Overview
 
 This project explores more than **8,800 Netflix titles** to answer key business and analytical questions, including:
 
@@ -19,9 +19,9 @@ This project explores more than **8,800 Netflix titles** to answer key business 
 - 📈 Statistical summaries using NumPy
 
 
-## 📂 Dataset
+### 📂 Dataset
 
-**Source:** https://www.kaggle.com/datasets/shivamb/netflix-shows
+*Source:* https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ### Dataset Features
 
@@ -41,7 +41,7 @@ This project explores more than **8,800 Netflix titles** to answer key business 
 | Description |
 
 
-## 🛠 Technologies Used
+### 🛠 Technologies Used
 
 - Python
 - Pandas
@@ -50,7 +50,7 @@ This project explores more than **8,800 Netflix titles** to answer key business 
 - Jupyter Notebook
 
 
-## 📚 Skills Demonstrated
+### 📚 Skills Demonstrated
 
 ### ✅ Data Cleaning
 - Missing value detection
@@ -97,7 +97,7 @@ This project explores more than **8,800 Netflix titles** to answer key business 
 - Figure Saving
 
 
-## 📁 Project Structure
+### 📁 Project Structure
 
 ```text
 Netflix-data-analysis/
@@ -117,7 +117,7 @@ Netflix-data-analysis/
 ```
 
 
-## 📊 Data Visualizations
+### 📊 Data Visualizations
 
 ### Netflix Titles Released Over the Years
 
@@ -136,7 +136,7 @@ Netflix-data-analysis/
 <img src="graphs/content.png" width="500">
 
 
-## 🔍 Key Insights
+### 🔍 Key Insights
 
 - 📌 Movies significantly outnumber TV Shows.
 - 🌍 The United States has the largest Netflix catalog.
@@ -147,7 +147,7 @@ Netflix-data-analysis/
 - 📈 Netflix experienced rapid content growth between **2016–2020**.
 
 
-## ▶️ How to Run
+### ▶️ How to Run
 
 ### Clone the repository
 
@@ -169,7 +169,7 @@ Netflix data analysis.ipynb
 
 Run all cells to reproduce the complete analysis.
 
-## 📌 Future Improvements
+###📌 Future Improvements
 
 - Interactive dashboards using Plotly
 - Power BI dashboard
@@ -177,7 +177,7 @@ Run all cells to reproduce the complete analysis.
 - Predictive analytics using Machine Learning
 
 
-## 👩‍💻 Author
+### 👩‍💻 Author
 
 **Adeena Eman**
 
